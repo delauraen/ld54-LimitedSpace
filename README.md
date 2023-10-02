@@ -4,6 +4,10 @@ a solo entry for ludum dare 54 using Unreal Engine 5.3
 
 ![grocery run.png](https://static.jam.host/raw/5a5/d4/z/5da4a.png)
 
+![goose stealing bag](https://img.itch.zone/aW1hZ2UvMjI5NDU5Mi8xMzU5NzE3My5wbmc=/347x500/a5tZtM.png)
+
+![prototype level](https://img.itch.zone/aW1hZ2UvMjI5NDU5Mi8xMzU5NzE4NS5wbmc=/347x500/yBxxvq.png)
+
 ## Grocery Run
 
 Everyone knows you **HAVE** to carry all your grocery bags in one trip or it doesn't count. Play as bag lady, carry as many groceries as you can handle but be careful because the more you carry the slower you move - you may need to dodge a rogue gang of geese that are out to steal those groceries. Get as many groceries to the end as quick as possible!
